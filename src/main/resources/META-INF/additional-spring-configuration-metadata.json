@@ -1,0 +1,32 @@
+{"properties": [
+  {
+    "name": "global.scrape_interval",
+    "type": "java.lang.String",
+    "description": "A description for 'global.scrape_interval'"
+  },
+  {
+    "name": "global.evaluation_interval",
+    "type": "java.lang.String",
+    "description": "A description for 'global.evaluation_interval'"
+  },
+  {
+    "name": "alerting.alertmanagers",
+    "type": "java.lang.String",
+    "description": "A description for 'alerting.alertmanagers'"
+  },
+  {
+    "name": "rule_files",
+    "type": "java.lang.String",
+    "description": "A description for 'rule_files'"
+  },
+  {
+    "name": "scrape_configs",
+    "type": "java.lang.String",
+    "description": "A description for 'scrape_configs'"
+  },
+  {
+    "name": "scrape_configs.static_configs-",
+    "type": "java.lang.String",
+    "description": "A description for 'scrape_configs.static_configs-'"
+  }
+]}
